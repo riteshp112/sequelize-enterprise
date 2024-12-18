@@ -1,0 +1,13 @@
+{
+  "name": "sequelize-enterprise",
+  "version": "1.0.0",
+  "main": "src/server.js",
+  "dependencies": {
+    "express": "^4.18.2",
+    "sequelize": "^6.32.1",
+    "pg": "^8.11.1"
+  },
+  "scripts": {
+    "start": "node src/server.js"
+  }
+}
